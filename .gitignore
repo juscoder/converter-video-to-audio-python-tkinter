@@ -1,3 +1,8 @@
+#mis gitignore
+build
+dist
+myenv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
