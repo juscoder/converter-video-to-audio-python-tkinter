@@ -32,4 +32,8 @@ Puedes instalar las dependencias utilizando `pip`:
 
 ```sh
 pip install moviepy
-pip install ffmpeg-python
+pip install ffmpeg-python```
+
+### Nota:
+
+Clonar ell repositorio y despues trabajer en enrtono virtual con el comando  `python -m venv tutorial-env` y par acrivar `tutorial-env\Scripts\activate`
