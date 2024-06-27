@@ -38,3 +38,9 @@ pip install ffmpeg-python
 ## Nota:
 
 Clonar ell repositorio y despues trabajer en enrtono virtual con el comando  `python -m venv tutorial-env` y par acrivar `tutorial-env\Scripts\activate`
+
+### Downloads:
+
+| Platform | Arch    | Version | Link                                                                                                                         |
+| -------- | ------- | ------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Windows  | x64     | 1.0   | [Download](https://github.com/juscoder/converter-video-to-audio-python-tkinter/releases/download/v1.0/jusconverter.exe)  |
