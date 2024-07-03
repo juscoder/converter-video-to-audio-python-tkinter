@@ -1,5 +1,5 @@
 # converter-video-to-audio-python-tkinter
-
+![img demo](https://i.imgur.com/BChIGWH.jpg)
 ## Descripción
 
 Este proyecto es un convertidor de video MP4 a formatos de audio MP3 y WAV. Está desarrollado en Python utilizando la biblioteca `tkinter` para la interfaz gráfica de usuario. El programa ha sido compilado en un ejecutable para facilitar su distribución y uso.
