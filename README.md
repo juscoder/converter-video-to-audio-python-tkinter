@@ -1,5 +1,12 @@
 # converter-video-to-audio-python-tkinter
 ![img demo](https://i.imgur.com/BChIGWH.jpg)
+
+### Downloads:
+
+| Platform | Arch    | Version | Link                                                                                                                         |
+| -------- | ------- | ------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Windows  | x64     | 1.0   | [Download](https://github.com/juscoder/converter-video-to-audio-python-tkinter/releases/download/v1.0/jusconverter.exe)  |
+
 ## Descripción
 
 Este proyecto es un convertidor de video MP4 a formatos de audio MP3 y WAV. Está desarrollado en Python utilizando la biblioteca `tkinter` para la interfaz gráfica de usuario. El programa ha sido compilado en un ejecutable para facilitar su distribución y uso.
@@ -38,9 +45,3 @@ pip install ffmpeg-python
 ## Nota:
 
 Clonar ell repositorio y despues trabajer en enrtono virtual con el comando  `python -m venv tutorial-env` y par acrivar `tutorial-env\Scripts\activate`
-
-### Downloads:
-
-| Platform | Arch    | Version | Link                                                                                                                         |
-| -------- | ------- | ------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Windows  | x64     | 1.0   | [Download](https://github.com/juscoder/converter-video-to-audio-python-tkinter/releases/download/v1.0/jusconverter.exe)  |
